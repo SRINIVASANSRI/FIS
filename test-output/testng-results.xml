@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54551" started-at="2025-01-09T06:51:32Z" finished-at="2025-01-09T06:52:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54551" started-at="2025-01-09T06:51:32Z" finished-at="2025-01-09T06:52:27Z">
+      <class name="ebay.Ebay">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ebay.Ebay@59fa1d9b]" name="setUp" is-config="true" duration-ms="8670" started-at="2025-01-09T12:21:32Z" finished-at="2025-01-09T12:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testEbay()[pri:0, instance:ebay.Ebay@59fa1d9b]" name="testEbay" duration-ms="42654" started-at="2025-01-09T12:21:41Z" finished-at="2025-01-09T12:22:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEbay -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ebay.Ebay@59fa1d9b]" name="tearDown" is-config="true" duration-ms="3218" started-at="2025-01-09T12:22:24Z" finished-at="2025-01-09T12:22:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ebay.Ebay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
